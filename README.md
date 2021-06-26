@@ -1,7 +1,7 @@
 # README
 # First project on Ruby on Rails
 
-[![Build Status](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://booksproject-ruby-01.herokuapp.com/)
 
 You can see the project working => here [Libros/Books Site](https://booksproject-ruby-01.herokuapp.com/)
 
